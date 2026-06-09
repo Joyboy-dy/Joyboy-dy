@@ -69,16 +69,7 @@ App TypeScript pour gérer des cartes. Typé strictement, évidemment.
 ## Activité GitHub
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Joyboy-dy&show_icons=true&theme=tokyonight" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joyboy-dy&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Joyboy-dy&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Joyboy-dy&theme=tokyonight&margin-w=10" />
 </p>
 
 ---
